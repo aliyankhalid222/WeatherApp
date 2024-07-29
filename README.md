@@ -1,1 +1,1 @@
-# WeatherApp
+This Weather App is a simple web application built using HTML, CSS, and JavaScript, fetching real-time weather data from the OpenWeatherMap API. It provides current weather information for any city, features dynamic backgrounds based on weather conditions, and allows toggling between Celsius and Fahrenheit. The app is responsive and works on all devices. 
